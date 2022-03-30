@@ -1,4 +1,4 @@
 altair
 pandas
 streamlit
-click=8
+click==8
